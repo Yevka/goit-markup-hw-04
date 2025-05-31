@@ -421,7 +421,7 @@ a {
   display: flex;
   align-items: center;
   justify-content: center;
-  gap: 24px;
+  gap: 16px;
 }
 
 .footer-link-icon {
