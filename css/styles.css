@@ -179,6 +179,7 @@ a {
   border-radius: 4px;
   padding: 16px 32px;
   min-width: 169px;
+  transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .hero-btn:hover,
@@ -234,6 +235,7 @@ a {
   border-radius: 4px;
   padding: 24px 100px;
   margin-bottom: 8px;
+  max-height: 120px;
 }
 /* ===========team=============== */
 .team {
@@ -449,6 +451,4 @@ a {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #fff;
-}
-.footer-wrap-icon {
 }
